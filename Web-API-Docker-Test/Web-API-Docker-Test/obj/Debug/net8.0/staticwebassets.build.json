@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jKv96C7F4W4nPIaC4FHV3iZC4/MxHoWKZxAKibQaKEA=",
+  "Source": "Web-API-Docker-Test",
+  "BasePath": "_content/Web-API-Docker-Test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

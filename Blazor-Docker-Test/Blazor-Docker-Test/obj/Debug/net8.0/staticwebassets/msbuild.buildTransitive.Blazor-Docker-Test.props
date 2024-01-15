@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Blazor-Docker-Test.props" />
+</Project>
